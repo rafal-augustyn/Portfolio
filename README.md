@@ -1,7 +1,9 @@
 # PORTFOLIO
 ## ABOUT ME
-I am young student with many technical skills. I am very motivated to become QA.
-## TOOLS
+I have always wanted to work in the IT sector. I didn't know what profession I should pursue until I discovered software testing. Testing drew me in very strongly. Testing different software capabilities, finding vulnerabilities, bugs makes me happy. 
+I want to become a software tester. 
+Every day I try to expand my knowledge, practice my newly acquired skills. I completed "Individual manual tester training - Waldemar Szafraniec", where I gained a lot of knowledge about: creating test cases, testing techniques, creating high-quality bug reports. In addition, I continue to gain knowledge from courses on software testing from the Udemy platform, Facebook groups, Youtube videos.
+## TOOLSTestLink packaged by Bitnami
 * Jira
 * TestLink
 * GitHub
@@ -16,9 +18,15 @@ I am young student with many technical skills. I am very motivated to become QA.
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 05.04.2022
+Szkolenie Indywidualne tester manualny 15.08.2022 - 20h
+Testowanie produktów cyfrowych (testowanie oprogramowania) 13.03.2022 - 9h
+Kurs Jira od podstaw - zarządzanie projektam 01.06.2022 - 4h
+Podstawy manualnego testowania oprogramowania  07.06.2022 - 7,5h
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Podstawy manualnego testowania oprogramowania - Udemy
+* Kurs Jira od podstaw - zarządzanie projektami - Udemy
+* Testowanie produktów cyfrowych (testowanie oprogramowania)
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
