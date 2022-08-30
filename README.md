@@ -1,12 +1,9 @@
 # PORTFOLIO
 ## ABOUT ME
-I have always wanted to work in the IT sector. I didn't know what profession I should pursue until I discovered software testing. Testing drew me in very strongly. Testing different software capabilities, finding vulnerabilities, bugs makes me happy. 
-I want to become a software tester. 
-Every day I try to expand my knowledge, practice my newly acquired skills. I completed "Individual manual tester training - Waldemar Szafraniec", where I gained a lot of knowledge about: creating test cases, testing techniques, creating high-quality bug reports. In addition, I continue to gain knowledge from courses on software testing from the Udemy platform, Facebook groups, Youtube videos and blogs about testing.
+I have always wanted to work in the IT sector. I didn't know what profession I should pursue until I discovered software testing. Testing drew me in very strongly. Testing different software capabilities, finding vulnerabilities, bugs makes me happy. Every day I try to expand my knowledge, from courses on software testing from the Udemy platform, from Facebook groups, Youtube videos and blogs about testing. As a practical exercise, I post documents from testing the Bonito.pl online store.
 ## TOOLS
 * TestLink
 * Jira
-* TestLink
 * GitHub
 * Postman
 * Testrail
@@ -27,7 +24,7 @@ Every day I try to expand my knowledge, practice my newly acquired skills. I com
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 * Podstawy manualnego testowania oprogramowania - Udemy
 * Kurs Jira od podstaw - zarządzanie projektami - Udemy
-* Testowanie produktów cyfrowych (testowanie oprogramowania)
+* Testowanie produktów cyfrowych (testowanie oprogramowania) - Udemy
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
