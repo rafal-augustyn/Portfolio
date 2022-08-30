@@ -46,8 +46,13 @@ Every day I try to expand my knowledge, practice my newly acquired skills. I com
 * [Test cases](https://drive.google.com/file/d/1kp1Ib_rlraXVYANbbwj-CVH44rhvg54B/view?usp=sharing)
 ## MY BUGS
 ## MY BUGS FOR Bonito.pl
-* [nazwa buga](link do buga z google drive)
-* [nazwa buga](link do buga z google drive)
+* [Brak wymogu "silnego hasła" w formularzu rejestracji.](https://docs.google.com/document/d/1AmdBf_z3K1baLVBee0x2SNlC8JTuvI4o/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
+* [Po usunięciu konta, adres e-mail wciąż pozostaje w bazie danych.](https://docs.google.com/document/d/1Vbe2dY9c3LxlWwIqEhs9ZEJkmvQNHB39/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
+* [Reset hasła nie działa - logowanie za pomocą zresetowanego hasła.](https://docs.google.com/document/d/1Y7y5P26HXGgcouY-NH-jKHSfci6wnLHM/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
+* [Wielkość znaków w loginie ma znaczenie podczas logowania.](https://docs.google.com/document/d/1itvgeGcVefzH-jDOxWCcswIV6Vs1RIYh/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
+* [Przedpłata przelewem i Szybki przelew PayU ma taki sam odnośnik.](https://docs.google.com/document/d/18L8aLh0pGu1sCaitzPVqlcaClTZJNN2V/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
+* [Brak walidacji numeru telefonu - "Dane zamawiającego".](https://docs.google.com/document/d/1hYjfNc1jb9VsCth5M0kFAnUZwfC_HwN4/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
+* [Po uzupełnieniu formularza danych zamawiającego spacją i kliknięciu przycisku "Zamawiam" wyświetlony zostaje nieprawidłowy komunikat błędu.](https://docs.google.com/document/d/1EaiHILoSAl6yZzwbmJ4SGR9PWUxp-g6a/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
 
 ## MY REPORT
 ## MY REPORT FOR Bonito.pl
