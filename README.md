@@ -36,11 +36,13 @@ I have always wanted to work in the IT sector. I didn't know what profession I s
 * Testowanie oprogramowania
 * Testowanie oprogramowania - Materiały | Porady
 * Tester oprogramowania - jak nim zostać?
+## MY MINDMAPS
 ## MY MINDMAPS FOR Bonito.pl
 * [Mindmap](https://drive.google.com/file/d/1vZETRqStA8WFoMto44dDJL8LtpGK2gaB/view?usp=sharing)
 ## MY TEST CASE EXAMPLES
 ## MY TEST CASE EXAMPLES FOR Bonito.pl
-* [Test cases](https://drive.google.com/file/d/1kp1Ib_rlraXVYANbbwj-CVH44rhvg54B/view?usp=sharing)
+* [Test cases PDF](https://drive.google.com/file/d/1o0WMSKmzU5VS2elJMd2GjlKzPpRXIysk/view?usp=sharing)
+* [Test cases XML](https://drive.google.com/file/d/1kp1Ib_rlraXVYANbbwj-CVH44rhvg54B/view?usp=sharing)
 ## MY BUGS
 ## MY BUGS FOR Bonito.pl
 * [Brak wymogu "silnego hasła" w formularzu rejestracji.](https://docs.google.com/document/d/1AmdBf_z3K1baLVBee0x2SNlC8JTuvI4o/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
@@ -53,5 +55,5 @@ I have always wanted to work in the IT sector. I didn't know what profession I s
 
 ## MY REPORT
 ## MY REPORT FOR Bonito.pl
-* [Report PDF](https://docs.google.com/document/d/1iS7NppWVsYZVGKxLW3VYBIzXepr_at6p/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
+* [Report PDF](https://drive.google.com/file/d/1cyQLErOVY3HDNajjDqIW-581PxOEM0qN/view?usp=sharing)
 * [Report Excell](https://docs.google.com/spreadsheets/d/1i1YhI8lilbKKq8tpycd6HlBkzUCseX8j/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
