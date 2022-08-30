@@ -19,10 +19,10 @@ Every day I try to expand my knowledge, practice my newly acquired skills. I com
 * SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 15.08.2022 - 20h
-Testowanie produktów cyfrowych (testowanie oprogramowania) 13.03.2022 - 9h
-Kurs Jira od podstaw - zarządzanie projektam 01.06.2022 - 4h
-Podstawy manualnego testowania oprogramowania  07.06.2022 - 7,5h
+* Szkolenie Indywidualne tester manualny 15.08.2022 - 20h
+* Testowanie produktów cyfrowych (testowanie oprogramowania) 13.03.2022 - 9h
+* Kurs Jira od podstaw - zarządzanie projektam 01.06.2022 - 4h
+* Podstawy manualnego testowania oprogramowania  07.06.2022 - 7,5h
 ## COURSES
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 * Podstawy manualnego testowania oprogramowania - Udemy
