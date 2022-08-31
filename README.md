@@ -40,11 +40,11 @@ I have always wanted to work in the IT sector. I didn't know what profession I s
 ## MY MINDMAPS FOR Bonito.pl
 * [Mindmap](https://drive.google.com/file/d/1vZETRqStA8WFoMto44dDJL8LtpGK2gaB/view?usp=sharing)
 ## MY TEST CASE EXAMPLES
-## MY TEST CASE EXAMPLES FOR Bonito.pl
+### MY TEST CASE EXAMPLES FOR Bonito.pl
 * [Test cases PDF](https://drive.google.com/file/d/1o0WMSKmzU5VS2elJMd2GjlKzPpRXIysk/view?usp=sharing)
 * [Test cases XML](https://drive.google.com/file/d/1kp1Ib_rlraXVYANbbwj-CVH44rhvg54B/view?usp=sharing)
 ## MY BUGS
-## MY BUGS FOR Bonito.pl
+### MY BUGS FOR Bonito.pl
 * [Brak wymogu "silnego hasła" w formularzu rejestracji.](https://docs.google.com/document/d/1AmdBf_z3K1baLVBee0x2SNlC8JTuvI4o/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
 * [Po usunięciu konta, adres e-mail wciąż pozostaje w bazie danych.](https://docs.google.com/document/d/1Vbe2dY9c3LxlWwIqEhs9ZEJkmvQNHB39/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
 * [Reset hasła nie działa - logowanie za pomocą zresetowanego hasła.](https://docs.google.com/document/d/1Y7y5P26HXGgcouY-NH-jKHSfci6wnLHM/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
@@ -54,6 +54,6 @@ I have always wanted to work in the IT sector. I didn't know what profession I s
 * [Po uzupełnieniu formularza danych zamawiającego spacją i kliknięciu przycisku "Zamawiam" wyświetlony zostaje nieprawidłowy komunikat błędu.](https://docs.google.com/document/d/1EaiHILoSAl6yZzwbmJ4SGR9PWUxp-g6a/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
 
 ## MY REPORT
-## MY REPORT FOR Bonito.pl
+### MY REPORT FOR Bonito.pl
 * [Report PDF](https://drive.google.com/file/d/1cyQLErOVY3HDNajjDqIW-581PxOEM0qN/view?usp=sharing)
 * [Report Excell](https://docs.google.com/spreadsheets/d/1i1YhI8lilbKKq8tpycd6HlBkzUCseX8j/edit?usp=sharing&ouid=112131165326463282342&rtpof=true&sd=true)
