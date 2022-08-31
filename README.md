@@ -37,7 +37,7 @@ I have always wanted to work in the IT sector. I didn't know what profession I s
 * Testowanie oprogramowania - Materiały | Porady
 * Tester oprogramowania - jak nim zostać?
 ## MY MINDMAPS
-## MY MINDMAPS FOR Bonito.pl
+### MY MINDMAPS FOR Bonito.pl
 * [Mindmap](https://drive.google.com/file/d/1vZETRqStA8WFoMto44dDJL8LtpGK2gaB/view?usp=sharing)
 ## MY TEST CASE EXAMPLES
 ### MY TEST CASE EXAMPLES FOR Bonito.pl
